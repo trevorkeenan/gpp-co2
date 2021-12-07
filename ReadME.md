@@ -24,7 +24,7 @@ Running A_varianceNormalization.m will produce the following figures reported in
 *ED Figure 1  \
 *ED Figure 2  \
 *ED Figure 3  \
-*ED Figure 6  \
+*ED Figure 6  
  
 A_varianceNormalization.m calls B_calc_EC_andPlot.m
 
