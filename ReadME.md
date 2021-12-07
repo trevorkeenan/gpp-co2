@@ -2,10 +2,10 @@
 ## Overview
 This repository contains analysis and plotting scripts to reproduce the emergent constraint analysis presented in
  Keenan et al. 2021 A constraint on historic growth in global photosynthesis due to increasing CO2. 
-Nature [DOI](https://www.nature.com/articles/s41586-021-04096-9)
+Nature https://www.nature.com/articles/s41586-021-04096-9
 
 Full information on the methods used in this study are attached to this paper and are available
-online at the DOI listed above; this includes information about datasets used, as well as the motivation and reasoning
+online at the link provided above; this includes information about datasets used, as well as the motivation and reasoning
 behind the analysis.
 
 The scripts, written in Matlab, are:
