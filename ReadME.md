@@ -20,7 +20,7 @@ the partial response of Sland to Beta^{GPP} across models to derive the constrai
 
 ## Running the code
 Running A_varianceNormalization.m will produce the following figures reported in Keenan et al. 2021: \
-*Fig. 1a-d  \
+*Figure 1a-d  \
 *ED Figure 1  \
 *ED Figure 2  \
 *ED Figure 3  \
