@@ -1,8 +1,8 @@
-# GPP_CO2
+# GPP-CO2
 ## Overview
 This repository contains analysis and plotting scripts to reproduce the emergent constraint analysis presented in
  Keenan et al. 2021 A constraint on historic growth in global photosynthesis due to increasing CO2. 
-Nature [DOI] (https://www.nature.com/articles/s41586-021-04096-9)
+Nature [DOI](https://www.nature.com/articles/s41586-021-04096-9)
 
 Full information on the methods used in this study are attached to this paper and are available
 online at the DOI listed above; this includes information about datasets used, as well as the motivation and reasoning
@@ -19,11 +19,12 @@ the partial response of Sland to Beta^{GPP} across models to derive the constrai
 
 ## Running the code
 Running A_varianceNormalization.m will produce the following figures reported in Keenan et al. 2021:
-Fig. 1a-d
-ED Figure 1
-ED Figure 2
-ED Figure 3
-ED Figure 6
+Fig. 1a-d 
+ED Figure 1 
+ED Figure 2 
+ED Figure 3 
+ED Figure 6  
+A_varianceNormalization.m calls B_calc_EC_andPlot.m
 
 ## Folder structure and contents
  ./figures/emergent contains the figures produced 
