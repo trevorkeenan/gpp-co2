@@ -18,12 +18,12 @@ This code, called by 'varianceNormalization.m' uses the emergent constraint betw
 the partial response of Sland to Beta^{GPP} across models to derive the constrained Beta^{GPP} 
 
 ## Running the code
-Running A_varianceNormalization.m will produce the following figures reported in Keenan et al. 2021:
-Fig. 1a-d \
-ED Figure 1 \
-ED Figure 2 
-ED Figure 3 
-ED Figure 6  
+Running A_varianceNormalization.m will produce the following figures reported in Keenan et al. 2021: \
+*Fig. 1a-d \
+*ED Figure 1 \
+*ED Figure 2 \
+*ED Figure 3 \
+*ED Figure 6 \ 
 A_varianceNormalization.m calls B_calc_EC_andPlot.m
 
 ## Folder structure and contents
