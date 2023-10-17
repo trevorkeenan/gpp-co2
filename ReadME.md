@@ -5,6 +5,14 @@ This repository contains analysis and plotting scripts to reproduce the emergent
 Keenan et al. 2021: A constraint on historic growth in global photosynthesis due to increasing CO2.  
 Nature - https://www.nature.com/articles/s41586-021-04096-9
 
+This paper was retracted in early 2022 due to an issue that affect the results presented in Figure 1. See the retraction notice here:
+https://www.nature.com/articles/s41586-022-04869-w
+
+We have removed the underlying code from the repository to avoid proliferation of the error in other analyses, but leave the description below for anyone wishing to dig deeper.
+
+
+## depreciated text:
+
 Full information on the methods used in this study are attached to this paper and are available
 online at the link provided above; this includes information about datasets used, as well as the motivation and reasoning
 behind the analysis.
